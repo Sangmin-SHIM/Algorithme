@@ -1,7 +1,7 @@
 # Algorithme
 Jupyter Notebook (Python)
 
-<Data Structure>
+<h2>Data Structure</h2>
   
 - Array
 - Queue
