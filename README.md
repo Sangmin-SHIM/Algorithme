@@ -8,3 +8,4 @@ Jupyter Notebook (Python)
 - Stack
 - Hash Table
 - Tree
+- Heap
